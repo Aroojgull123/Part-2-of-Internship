@@ -57,5 +57,18 @@ To achieve the objective, we followed these steps:
 
 ---
 
+## Dashboard's Link
+Here you can visualize the dashboard where all required things are mentioned
 
+- ✅ Here you can visualize the dashboard where all required things are mentioned
+- ✅ KPIs: Total Sales, Profit
+- ✅ Leaderboard: Top 5 Customers by Sales
+- ✅ Responsive, interactive, and easy to use
+- ✅ Built fully in Python using Streamlit
+
+  ---
+  
+ ## Link of Dashboard
+ 
+- ✅  https://6613b0b5dc59.ngrok-free.app/
 
